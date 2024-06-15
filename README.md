@@ -1,6 +1,6 @@
 ![burner](https://github.com/pointless-code/burner/assets/18129171/caf58a6a-18c1-412a-8833-31647dc4599e)
 
-## About Burner?
+## About Burner
 
 A .less docker container which turns you host machine to a heater for 2 minutes!
 
