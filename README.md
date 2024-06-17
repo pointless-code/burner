@@ -2,7 +2,7 @@
 
 ## About Burner
 
-A .less docker container which turns you host machine to a heater for 2 minutes!
+A .less Docker container that stress tests your host machine, turning it into a heater for 2 minutes!
 
 ## Pull from docker
 
