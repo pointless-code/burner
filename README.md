@@ -8,7 +8,7 @@ A .less Docker container that stress tests your host machine, turning it into a 
 
 ```bash
 docker pull pointlesscode/burner:latest
-docker run --rm pointless/burner
+docker run --rm pointlesscode/burner
 ```
 
 ## Build it yourself
